@@ -2,4 +2,4 @@
 
 Here is my first github repository.
 
-README.md file was just edited. Just edited the file locally.
+This line was edited manually during conflict resolution.
