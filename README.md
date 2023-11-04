@@ -4,4 +4,4 @@ Here is my first github repository.
 
 This line was edited manually during conflict resolution.
 
-New line was added locally.
+New line was added locally. Another change.
